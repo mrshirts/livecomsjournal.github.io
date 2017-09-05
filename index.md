@@ -5,6 +5,8 @@ This article describes how [LiveCoMS](http://www.livecomsjournal.org) article pr
 
 # Table of Contents
 
+{"gitdown": "contents", "maxDepth": 2}
+
 - [Submission Process](#the-process-of-submitting-an-article-to-livecoms)
   - [Article types](#types-of-articles)
   - [General guidelines](#general-article-guidelines)
@@ -39,7 +41,7 @@ Articles do not need to contain original research, but may contain it.
 
 ## Types of Articles
 
-### Best Practices Manuscripts
+# Best Practices Guides[best_practices.md]
 The goal of best practices manuscripts are to improve the quality of simulation research by providing advice that can eliminate the most common errors. 
 These documents consist of:
 
@@ -48,7 +50,7 @@ critical major errors are avoided.
 
 B. **The rationale**: A much more detailed section with the necessary rationale for the checklist, which would act as more complete *best practices* description, with significant detail as to the possible alternative ways to accomplish a given task, when one would be better than another, and significant literature documentation about reasons for choices.
 
-The inspiration for Best practices guides can be found in the Atul
+The inspiration for best practices guides can be found in the Atul
 Gawande article [The
 Checklist](http://www.newyorker.com/magazine/2007/12/10/the-checklist),
 later expanded in his bestseller [The Checklist
@@ -213,9 +215,7 @@ This allows authors to receive credit for ongoing work they do on their articles
 Authors are encouraged to make updates to articles in their GitHub repositories as frequently as warranted. However, release of new peer-reviewed versions via LiveCoMS is warranted only when changes become particularly extensive or important. Thus, versioning should typically be done no more frequently than every 12 months.  
 
 The review process for an update to a LiveCoMS article is similar to the review process for the initial version.  Additional review criteria will include whether or not issues the community raised on the article's issue tracker were responded to, and whether the revision includes sufficient new material.
-Certain categories of article may need revision at different frequencies: 
-
-* **Best practices guides**: These articles may start with more frequent versions, as initial rounds of community input are solicited. As always, authors are encouraged to update their private GitHub versions as frequently as desired, and if the document changes rapidly, more frequent new versions on LiveCoMS may be needed; consultation with your editor is encouraged. 
+Certain categories of article may need revision at different frequencies, and these differences are outlined in the type-specific authors information.
 
 * **Perpetual Reviews**: Authors will be asked to update reviews at least once every 36 months, and will be encouraged to ensure continuity of authorship (e.g. if one author retires or loses interest) so the review can be maintained, or else the review will be “made emeritus” and indicated as out-of-date on the site.  We recommend updating at least every 24 months.  However, authors decide when it is time to re-version based on feedback they receive. 
 
